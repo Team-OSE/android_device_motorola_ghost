@@ -1,6 +1,5 @@
 Unified device configuration for Motorola Moto X (ghost)
 ==============================
-Copyright 2014 - The CyanogenMod Project
 
 This device tree supports:
 
